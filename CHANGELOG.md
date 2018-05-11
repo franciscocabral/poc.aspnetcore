@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
-## [v1.0.0]() - 2018-05-11
+## [v1.0.0](https://github.com/franciscocabral/poc.aspnetcore/compare/f3858467e7e52038be76bb02a52cef30b3d9b4dc...v1.0.0) - 2018-05-11
 ### Added
 - Docker build and run.
 - Script docker-task.sh to help with cleanup, build and run.
