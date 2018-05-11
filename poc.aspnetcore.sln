@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "poc.aspnetcore", "poc.docker.aspnetcore\poc.aspnetcore.csproj", "{4151D3A6-71E3-4CC8-A736-29E360BDB00B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "poc.aspnetcore", "poc.aspnetcore\poc.aspnetcore.csproj", "{4151D3A6-71E3-4CC8-A736-29E360BDB00B}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "poc.middlewares", "poc.middlewares\poc.middlewares.csproj", "{CDDC3E18-BFDA-42E3-A4CE-2A1DB8F14264}"
 EndProject

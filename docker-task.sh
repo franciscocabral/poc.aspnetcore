@@ -25,7 +25,7 @@ CleanUp () {
 }
 
 Build () {
-  docker build --force-rm -t "$1":"$2" --build-arg configuration="$3" --file "$4" "$5"
+  docker build --force-rm -t "$1":"$2" --build-arg CONFIG="$3" --file "$4" "$5"
 }
 
 Run () {
