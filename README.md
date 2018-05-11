@@ -33,7 +33,7 @@ You will need the [Docker CE](https://www.docker.com/community-edition#/download
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/franciscocabral/poc.aspnetcore/tags). 
 
 ## Authors
 
